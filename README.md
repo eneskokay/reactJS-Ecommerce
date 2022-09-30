@@ -3,3 +3,7 @@ I'm thrilled to share my first React Project. It's about E-commerce and you can 
 
 ### Video
 https://www.youtube.com/watch?v=2Wa1AXfVDLM
+
+### Install
+<div><strong>-npm install</strong></div>
+<div><strong>-npm start</strong></div>
